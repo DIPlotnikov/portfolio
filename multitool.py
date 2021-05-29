@@ -3,7 +3,7 @@
 
 # Простая программа для рабочего стола, решающая повседневные задачки офисного планктона.
 
-# D.Plotnikov 2021
+# D.Plotnikov 2020
 
 from tkinter import *
 from tkinter import ttk
